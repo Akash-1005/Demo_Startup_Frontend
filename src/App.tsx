@@ -1,5 +1,6 @@
 import React from 'react';
-import StethoscopeLanding from './Healthcarestartuplanding';
+import StethoscopeLanding from './HealthcareStartupLanding';
+
 
 function App() {
   return (
